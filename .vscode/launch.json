@@ -9,7 +9,7 @@
 			"type": "coreclr",
 			"request": "launch",
 			"preLaunchTask": "build",
-			"program": "${workspaceFolder}/d04_ex01/bin/Debug/net5.0/d04_ex01.dll",
+			"program": "${workspaceFolder}/d04_ex03/bin/Debug/net5.0/d04_ex03.dll",
 			"args": [],
 			"cwd": "${workspaceFolder}",
 			"console": "internalConsole",
